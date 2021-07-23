@@ -1,0 +1,12 @@
+C:\Users\Elias\Desktop\Dapper\Seção 03\ProjetoDapper\ProjetoDapper.Domain\bin\Debug\net5.0\ProjetoDapper.Domain.deps.json
+C:\Users\Elias\Desktop\Dapper\Seção 03\ProjetoDapper\ProjetoDapper.Domain\bin\Debug\net5.0\ProjetoDapper.Domain.dll
+C:\Users\Elias\Desktop\Dapper\Seção 03\ProjetoDapper\ProjetoDapper.Domain\bin\Debug\net5.0\ref\ProjetoDapper.Domain.dll
+C:\Users\Elias\Desktop\Dapper\Seção 03\ProjetoDapper\ProjetoDapper.Domain\bin\Debug\net5.0\ProjetoDapper.Domain.pdb
+C:\Users\Elias\Desktop\Dapper\Seção 03\ProjetoDapper\ProjetoDapper.Domain\obj\Debug\net5.0\ProjetoDapper.Domain.csproj.AssemblyReference.cache
+C:\Users\Elias\Desktop\Dapper\Seção 03\ProjetoDapper\ProjetoDapper.Domain\obj\Debug\net5.0\ProjetoDapper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias\Desktop\Dapper\Seção 03\ProjetoDapper\ProjetoDapper.Domain\obj\Debug\net5.0\ProjetoDapper.Domain.AssemblyInfoInputs.cache
+C:\Users\Elias\Desktop\Dapper\Seção 03\ProjetoDapper\ProjetoDapper.Domain\obj\Debug\net5.0\ProjetoDapper.Domain.AssemblyInfo.cs
+C:\Users\Elias\Desktop\Dapper\Seção 03\ProjetoDapper\ProjetoDapper.Domain\obj\Debug\net5.0\ProjetoDapper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Elias\Desktop\Dapper\Seção 03\ProjetoDapper\ProjetoDapper.Domain\obj\Debug\net5.0\ProjetoDapper.Domain.dll
+C:\Users\Elias\Desktop\Dapper\Seção 03\ProjetoDapper\ProjetoDapper.Domain\obj\Debug\net5.0\ref\ProjetoDapper.Domain.dll
+C:\Users\Elias\Desktop\Dapper\Seção 03\ProjetoDapper\ProjetoDapper.Domain\obj\Debug\net5.0\ProjetoDapper.Domain.pdb
